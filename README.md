@@ -1,10 +1,11 @@
 # checker con seleni
 
-En este script automatizaremos la tarea de crear una cuenta en netflix, escoger un plan y probar muchas tarjetas hasta que salga una valida y asi completar 
-la suscripcion, en este caso trabajaremos con el navegador de firefox, otra cosa que quiero recalcar es que este script lo podemos optimizar mas, podriamos pensar
-en colocar las tarjetas en un archivo.txt, podemos hacerlo con un paradigma funcional o uno orientado a objetos y organizarlo asi un poco mas.
+En este script automatizaremos la tarea de crear una cuenta en netflix, pediremos por consola un correo con el cual deseamos crear la cuenta en netflix, y apartir de ahi escogera un plan y probara muchas tarjetas hasta que salga una valida y asi completar la suscripcion, en este caso trabajaremos con el navegador de firefox, otra cosa que quiero recalcar es que este script lo podemos optimizar mas, podriamos pensar en colocar las tarjetas en un archivo.txt, podemos hacerlo con un paradigma funcional o uno orientado a objetos y organizarlo asi un poco mas, podemos pedir por consola si quiere la fecha de la tarjetas fijas o random e igual para el codigo de seguridad(cvv). 
 
 #Requerimientos
 Tener descargado el driver de firefox para poder trabajar con selenium
+
+#Cosas a tener encuenta
+Si vas a trabajar con el script y tu internet no es el mas optimo recuerda puedes hacer uso de la funcion sleep()
 
 
